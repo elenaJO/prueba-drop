@@ -1,0 +1,3 @@
+$( '.libro' ).draggable({
+    addClasses: false
+  });
